@@ -1,2 +1,2 @@
 # Test
-It for testing and learning 
+It just for testing and learning 
